@@ -95,8 +95,6 @@ svg:hover, svg:active{
         width: 80%;
         margin: 10px 0;
     }
-    p{
-    }
     .controls{
         display: flex;
         flex-direction: column;
