@@ -10,4 +10,4 @@
 Check out the website here : 
 https://yasinbhojani.github.io/todo-list/
 
-![full-screenshot](./imgs/screenshot-full.png)
+![full-screenshot](./img/screenshot-full.png)
